@@ -1,5 +1,6 @@
 # canadian-finance-study-notebook
 NotebookLM project: structured study guide for beginner finance topics.
+https://notebooklm.google.com/notebook/f575cd43-fc51-4e29-9a21-ab7dc0eb426d
 # Canadian Finance Study Notebook
 
 ## Overview
